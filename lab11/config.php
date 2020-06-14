@@ -1,8 +1,7 @@
 <?php
-define('DBHOST', 'localhost');
-define('DBNAME', 'login');
-define('DBNAME', 'login');
-define('DBUSER', '´úÇ¬');
+define('DBNAME', 'Login');
+define('DBUSER', 'ä»£ä¹¾');
 define('DBPASS', 'Dai05043159');
-define('DBCONNSTRING','mysql:host=localhost;dbname=login')
+define('DBCONNSTRING','mysql:host=localhost;dbname=Login');
+
 ?>
